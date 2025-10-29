@@ -6,8 +6,8 @@ Purpose
 - Follow the TODO sections to implement your Student object and mint functions.
 
 References
-- Lessons directory (read these first): /home/tanta/sui-move-intro-course/unit-one/lessons/
-- Hello World example (compare behaviors): /home/tanta/sui-move-intro-course/unit-one/example_projects/hello_world/sources/hello_world.move
+- Lessons directory (read these first): lessons/
+-
 
 ----------------------------------------
 TODO 1: Module Declaration

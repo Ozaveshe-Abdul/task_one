@@ -5,14 +5,13 @@ This task guides you to implement a `Student` object in Sui Move using what you 
 Path references and lessons are local to this repo to keep everything beginner-friendly.
 
 ## Quick Links
-- Lessons: `/home/tanta/sui-move-intro-course/unit-one/lessons/`
+- Lessons: `lessons/`
   - `1_set_up_environment.md`
   - `2_sui_project_structure.md`
   - `3_custom_types_and_abilities.md`
   - `4_functions.md`
   - `5_contract_deployment.md`
-- Hello World example: `/home/tanta/sui-move-intro-course/unit-one/example_projects/hello_world`
-- Your task files: `/home/tanta/sui-move-intro-course/task_one`
+
 
 ## Lesson Summary
 - Setup: Installs Sui CLI, sets networks, faucet tokens, and basic commands.
